@@ -1,7 +1,7 @@
 ![logo2](https://user-images.githubusercontent.com/1180331/152244964-d2ac8d7a-cd16-4638-97bb-972dbd81d87a.png)
 
 
-I’m a Software Engineer with more than 12 years of experience. I’m a hardworking and dedicated person who loves to be always up-to-date with the latest and upcoming technologies.
+I’m a Software Engineer with more than 15 years of experience. I’m a hardworking and dedicated person who loves to be always up-to-date with the latest and upcoming technologies.
 I write efficient, maintainable and reusable code.
 I’m proficient in design, data structures, problem-solving and debugging. I love to inspire other people around me and get inspired by them.
 
