@@ -67,7 +67,7 @@ I’m the **Community Manager for Google Developer Group Venezia (GDG Venezia)**
 - **20/11/2021** – *Background Working with WorkManager* @ Android Developers Italia ([Video](https://www.youtube.com/live/3tVFljAZFTo?si=ulDqNBkOh160doz_&t=4091))
 - **14/07/2020** – *A clean(er) architecture for Android* @ Droidcon Italy ([Video](https://www.youtube.com/watch?v=JJVvjOVZqRQ))
 - **06/05/2020** – *A clean(er) architecture for Android* @ Android Developers Italia ([Video](https://www.youtube.com/watch?v=ZoDjz7ld1Jw))
-- **29/11/2019** – *A clean(er) architecture* @ [Milan Kotlin Community Conf](https://milan.kotlincommunityconf.com/) ([Slides](https://www.slideshare.net/AndreaMaglie/a-cleaner-architecture))
+- **29/11/2019** – *A clean(er) architecture* @ [Milan Kotlin Community Conf](https://www.agilemovement.it/kotlincommunityconf/milan/) ([Slides](https://www.slideshare.net/AndreaMaglie/a-cleaner-architecture))
 - **30/10/2019** – *Kotlin Multiplatform | Kotlin/Everywhere Venezia 2019* @ [BeFamily](https://www.befamily.it/) ([Video](https://www.youtube.com/watch?v=gTrdMiGs92M), [Meetup](https://www.meetup.com/it-IT/GDG-Venezia/events/265665209/))
 - **14/06/2019** – *Everyone can build a REST service with Kotlin* @ [Milan Kotlin Community Conf](https://milan.kotlincommunityconf.com/) ([Video](https://vimeo.com/showcase/5286228/video/279944670), [Slides](https://www.slideshare.net/AndreaMaglie/everyone-can-build-a-rest-service-with-kotlin))
 - **16/10/2018** – *Build an app for Google Assistant with Dialogflow* ([Slides](https://www.slideshare.net/AndreaMaglie/build-an-app-for-google-assistant-with-dialogflow))
