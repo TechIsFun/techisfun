@@ -2,6 +2,12 @@
   "ignorePatterns": [
     {
       "pattern": "^https://www.linkedin.com"
+    },
+    {
+      "pattern": "https://milan.kotlincommunityconf.com/"
+    },
+    {
+      "pattern": "https://www.agilemovement.it/kotlincommunityconf/milan/"
     }
   ]
 }
