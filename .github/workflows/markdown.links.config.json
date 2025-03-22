@@ -8,6 +8,9 @@
     },
     {
       "pattern": "https://www.agilemovement.it/kotlincommunityconf/milan/"
+    },
+    {
+      "pattern": "https://www.befamily.it/"
     }
   ]
 }
